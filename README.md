@@ -3,7 +3,7 @@
 ## Author
 
 * datz0512 - https://github.com/datz0512
-* Demo page: https://jadeg-studios.github.io/ShopeeUI/
+* Demo page: https://jadeg-studios.github.io/ShopeeUI/index.html
 
 ## Description
 
